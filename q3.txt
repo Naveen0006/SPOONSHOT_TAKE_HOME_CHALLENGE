@@ -1,0 +1,29 @@
+a) As an intern in Spoonshot what do you want to achieve in 8 weeks ?
+
+   As an AI enthusiast I always wanted to solve unexplored real world problems as it makes my work much more challenging and interesting. Having that motive 
+   I always try to get into companies which try to revolutionalise huge industrial markets using Artificial Intelligence. so I believe that spoonshot is the
+   dream company that I always wanted to join and looking forward to solve exciting problems in the food sector on behalf of spoonshot.
+
+b) What is your motivation in the field of Data Science / Machine Learning?
+
+   Iam very much fascinated by these latest cutting edge technologies in datascience. Because In this big data era data science is the tool that has the 
+   ability to transform any industrial sector by simply using the naturally generated data. so I definitely want to be part of this revolution and want to 
+   see myself as a data scientist providing innovative solutions to the unexplored real world problems.
+
+c) If you are given a full time offer as a Data Scientist in Spoonshot what is your dream problem which you would like to solve ?
+
+   Before two to three years neural networks were only used to perform well on some particular tasks such as in computervision, NLP, e.t.c. as neural 
+   networks expects data in certain pattern such as sequential data in lannguage. But the rise of graph neural networks made it possible to apply neural 
+   networks to wide variety of tasks as the data all around us can be naturally represented in a graphical format. for example in the food sector we can 
+   represent a recipe as a graph with ingredients as nodes. and inturn the chemical structure of ingredients can be represented as a graph with nodes as 
+   atoms involved in the chemical structure. so by applying graph neural networks on these huge graph data we will be able to get new insights in the food 
+   sector. some of the mind-boggling applications of graph neural networks are drug discovery by modelling drug molecules as a graphs, smart transportation 
+   system by considering the traffic network as a spatial-temporal graph, e.t.c. so Iam building my expertise in these graph neural networks and would like 
+   to use the same for conrtibuting to spoonshot in a great way.
+
+   
+
+
+
+
+
